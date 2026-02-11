@@ -1,0 +1,31 @@
+/* Hero Section */
+.hero-section {
+  
+    background: url('images/geralt-purchase-3113198_1920.jpg') no-repeat center center;
+    background-size: cover; /* Image full cover kare section ko */
+    height: 80vh; /* Hero section ki height */
+    color: white; /* Text white ho jaye */
+    text-shadow: 1px 1px 6px rgba(0,0,0,0.7); /* Text readable ho */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/* Cards */
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Footer */
+footer {
+    background-color: #111;
+}
