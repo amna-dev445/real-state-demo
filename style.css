@@ -1,7 +1,7 @@
 /* Hero Section */
 .hero-section {
   
-    background: url('images/geralt-purchase-3113198_1920.jpg') no-repeat center center;
+    background: url('geralt-purchase-3113198_1920.jpg') no-repeat center center;
     background-size: cover; /* Image full cover kare section ko */
     height: 80vh; /* Hero section ki height */
     color: white; /* Text white ho jaye */
